@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from 'react'
 import todo_icon from '../assets/todo_icon.png'
 import TodoItems from './TodoItems'
 
+//Todo Component - This component manages the todo list, allowing users to add, delete, and toggle the completion
 
 const Todo = () => {
 
