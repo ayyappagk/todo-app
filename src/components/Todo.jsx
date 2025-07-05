@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from 'react'
 import todo_icon from '../assets/todo_icon.png'
 import TodoItems from './TodoItems'
 
-//Todo Component -kishan This component manages the todo list, allowing users to add, delete, and toggle the completion
+//Todo Component -kishan This ayyappa component manages the todo list, allowing users to add, delete, and toggle the completion
 
 const Todo = () => {
 
